@@ -1,0 +1,63 @@
+﻿  MyForm.cpp
+E:\DIP\New folder (2)\Ahmed__Osama_Sec1_14915_TOOLBOX__DIP\DIP TOOLBOX\Project2\MyForm.h(996,63): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+E:\DIP\New folder (2)\Ahmed__Osama_Sec1_14915_TOOLBOX__DIP\DIP TOOLBOX\Project2\MyForm.h(996,49): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+E:\DIP\New folder (2)\Ahmed__Osama_Sec1_14915_TOOLBOX__DIP\DIP TOOLBOX\Project2\MyForm.h(1049,60): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+E:\DIP\New folder (2)\Ahmed__Osama_Sec1_14915_TOOLBOX__DIP\DIP TOOLBOX\Project2\MyForm.h(1246,33): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+E:\DIP\New folder (2)\Ahmed__Osama_Sec1_14915_TOOLBOX__DIP\DIP TOOLBOX\Project2\MyForm.h(1247,37): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+E:\DIP\New folder (2)\Ahmed__Osama_Sec1_14915_TOOLBOX__DIP\DIP TOOLBOX\Project2\MyForm.h(1247,21): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+E:\DIP\New folder (2)\Ahmed__Osama_Sec1_14915_TOOLBOX__DIP\DIP TOOLBOX\Project2\MyForm.h(1250,33): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+E:\DIP\New folder (2)\Ahmed__Osama_Sec1_14915_TOOLBOX__DIP\DIP TOOLBOX\Project2\MyForm.h(1251,37): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+E:\DIP\New folder (2)\Ahmed__Osama_Sec1_14915_TOOLBOX__DIP\DIP TOOLBOX\Project2\MyForm.h(1251,21): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+E:\DIP\New folder (2)\Ahmed__Osama_Sec1_14915_TOOLBOX__DIP\DIP TOOLBOX\Project2\MyForm.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\cuda.inl.hpp(401): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(545): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(865): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(2204): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(3807): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(763): warning C4793: 'cv::Mat::operator=': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project2.vcxproj -> E:\DIP\New folder (2)\Ahmed__Osama_Sec1_14915_TOOLBOX__DIP\DIP TOOLBOX\x64\Debug\Project2.exe

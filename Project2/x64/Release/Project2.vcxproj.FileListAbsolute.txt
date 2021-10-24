@@ -1,0 +1,5 @@
+E:\DIP\New folder (2)\Project2\Project2\x64\Release\Project2.MyForm.resources
+E:\DIP\New folder (2)\Project2\Project2\x64\Release\Project2.vcxproj.GenerateResource.cache
+E:\DIP\New folder (2)\DIP TOOLBOX\Project2\x64\Release\Project2.vcxprojAssemblyReference.cache
+E:\DIP\New folder (2)\DIP TOOLBOX\Project2\x64\Release\Project2.MyForm.resources
+E:\DIP\New folder (2)\DIP TOOLBOX\Project2\x64\Release\Project2.vcxproj.GenerateResource.cache
